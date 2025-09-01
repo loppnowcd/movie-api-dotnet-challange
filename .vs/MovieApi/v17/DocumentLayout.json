@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:39:33.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
