@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MovieApi.Api.Data;
+using MovieApi.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MovieContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+builder.Services.AddHttpClient<MovieApiService>();
 
 var app = builder.Build();
 
