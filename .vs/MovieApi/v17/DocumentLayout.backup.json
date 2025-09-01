@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\services\\movieapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\services\\movieapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|c:\\users\\cdlop\\source\\repos\\movieapi\\movieapi\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9EB6507-F882-41DB-8088-DA26DD6503DD}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,78 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\.gitignore",
-              "RelativeDocumentMoniker": "MovieApi\\.gitignore",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\.gitignore",
-              "RelativeToolTip": "MovieApi\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-09-01T15:20:35.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieApiService.cs",
-              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Services\\MovieApiService.cs",
-              "RelativeDocumentMoniker": "MovieApi\\Services\\MovieApiService.cs",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Services\\MovieApiService.cs",
-              "RelativeToolTip": "MovieApi\\Services\\MovieApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T14:37:33.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\appsettings.json",
               "RelativeDocumentMoniker": "MovieApi\\appsettings.json",
               "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\appsettings.json",
               "RelativeToolTip": "MovieApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-01T13:56:51.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Program.cs",
-              "RelativeDocumentMoniker": "MovieApi\\Program.cs",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Program.cs",
-              "RelativeToolTip": "MovieApi\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:54:19.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieContext.cs",
-              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Data\\MovieContext.cs",
-              "RelativeDocumentMoniker": "MovieApi\\Data\\MovieContext.cs",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Data\\MovieContext.cs",
-              "RelativeToolTip": "MovieApi\\Data\\MovieContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:49:12.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieApi\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
-              "RelativeToolTip": "MovieApi\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:39:33.611Z",
+              "WhenOpened": "2025-09-01T17:37:11.879Z",
               "EditorCaption": ""
             }
           ]
