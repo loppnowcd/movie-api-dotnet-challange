@@ -2,6 +2,8 @@
 using MovieApi.Api.Data;
 using MovieApi.Api.Services;
 using MovieApi.Api.Models;
+using MovieApi.Api.ApiModels;
+
 
 namespace MovieApi.Api.Controllers;
 

@@ -169,3 +169,4 @@ C:\Users\cdlop\source\repos\MovieApi\MovieApi\obj\Debug\net8.0\refint\MovieApi.d
 C:\Users\cdlop\source\repos\MovieApi\MovieApi\obj\Debug\net8.0\MovieApi.pdb
 C:\Users\cdlop\source\repos\MovieApi\MovieApi\obj\Debug\net8.0\MovieApi.genruntimeconfig.cache
 C:\Users\cdlop\source\repos\MovieApi\MovieApi\obj\Debug\net8.0\ref\MovieApi.dll
+C:\Users\cdlop\source\repos\MovieApi\MovieApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
