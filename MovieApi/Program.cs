@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using MovieApi.Api.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// essa linha diz ao .NET: "ei, adicione o MovieContext como um servico e configure para usar o SQL Server, pegando a string de conexao do arquivo de configuracao."
+builder.Services.AddDbContext<MovieContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 var app = builder.Build();
 
