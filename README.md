@@ -1,4 +1,5 @@
 <img src="https://github.com/loppnowcd/loppnowcd/blob/main/readmeheaderimage.png" alt="Cabeçalho do Readme / Readme header.">
+
 # Movie API - Junior Backend Developer Challenge
 
 ### Project Overview
@@ -26,7 +27,7 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the repository:**
     Start by opening your terminal or Git Bash.
     ```bash
-    git clone [https://github.com/loppnowcd/movie-api-dotnet-challange.git](https://github.com/loppnowcd/movie-api-dotnet-challange.git)
+    git clone https://github.com/loppnowcd/movie-api-dotnet-challange.git
     cd movie-api-dotnet-challange
     ```
 2.  **Restore dependencies:**
@@ -52,14 +53,14 @@ Follow these instructions to get the project up and running on your local machin
     ```bash
     dotnet ef database update
     ```
-    *Add a screenshot of the terminal here showing "Build started..." and "Build succeeded."*
+  
 5.  **Run the application:**
     - We're almost there! Run the command below to start the API.
     ```bash
     dotnet run --project MovieApi/Api/MovieApi.Api.csproj
     ```
     - The API will be available at `https://localhost:7000`. You'll see a confirmation message in the terminal.
-    *Add a screenshot of the terminal here showing the successful run message.*
+  
 
 ## API Endpoints: A Quick Test Drive
 
@@ -68,7 +69,7 @@ Now that the API is running, let's test it using Swagger. You'll love this!
 1.  **Open Swagger:**
     - Open your browser and navigate to `https://localhost:7000/swagger`.
     - You will see the documentation for our API.
-    *Add a screenshot of the Swagger UI with the endpoint visible.*
+
 2.  **Fetch and Save Movies:**
     - Look for the `GET /api/Movie/fetch-and-save-popular-movies` endpoint.
     - Click on it, then click the "Try it out" button.
@@ -107,7 +108,7 @@ Siga estas instruções para colocar o projeto em funcionamento na sua máquina 
 1.  **Clone o repositório:**
     Comece abrindo o seu terminal ou Git Bash.
     ```bash
-    git clone [https://github.com/loppnowcd/movie-api-dotnet-challange.git](https://github.com/loppnowcd/movie-api-dotnet-challange.git)
+    git clone https://github.com/loppnowcd/movie-api-dotnet-challange.git
     cd movie-api-dotnet-challange
     ```
 2.  **Restaure as dependências:**
@@ -133,14 +134,13 @@ Siga estas instruções para colocar o projeto em funcionamento na sua máquina 
     ```bash
     dotnet ef database update
     ```
-    *Adicione uma captura de tela do terminal aqui, mostrando a mensagem de "Build started..." e "Build succeeded."*
+
 5.  **Execute a aplicação:**
     - Estamos quase lá! Execute o comando abaixo para iniciar a API.
     ```bash
     dotnet run --project MovieApi/Api/MovieApi.Api.csproj
     ```
     - A API estará disponível em `https://localhost:7000`. Você verá uma mensagem de confirmação no terminal.
-    *Adicione uma captura de tela do terminal aqui, mostrando a mensagem de sucesso na execução.*
 
 ## Endpoints da API: Um Teste Rápido
 
@@ -149,7 +149,7 @@ Agora que a API está em funcionamento, vamos testá-la usando o Swagger. Você 
 1.  **Abra o Swagger:**
     - Abra seu navegador e navegue para `https://localhost:7000/swagger`.
     - Você verá a documentação da nossa API.
-    *Adicione uma captura de tela da tela do Swagger UI com o endpoint visível.*
+  
 2.  **Busque e Salve Filmes:**
     - Procure pelo endpoint `GET /api/Movie/fetch-and-save-popular-movies`.
     - Clique nele, depois clique no botão "Try it out".
