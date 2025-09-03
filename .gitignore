@@ -6,3 +6,6 @@
 .vs/
 *.suo
 *.user
+
+### Sensitive Data ###
+appsettings.Development.json
