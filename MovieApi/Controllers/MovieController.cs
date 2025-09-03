@@ -7,6 +7,13 @@ using MovieApi.Api.ApiModels;
 
 namespace MovieApi.Api.Controllers;
 
+
+/// <summary>
+/// Controller for managing movie-related operations.
+/// </summary>
+/// <remarks>
+/// This controller is responsible for fetching movie data from an external API and persisting the relevant information to a database.
+/// </remarks>
 [ApiController]
 [Route("api/[controller]")]
 public class MovieController : ControllerBase
@@ -20,6 +27,13 @@ public class MovieController : ControllerBase
         _context = context; // adicionada esta linha pro context ser inicializado
     }
 
+    /// <summary>
+    /// Fetches popular movies from the TMDb API and saves them to the database.
+    /// </summary>
+    /// <returns>Returns a success message or an error if the operation fails.</returns>
+    /// <response code="200">Returns a success message.</response>
+    /// <response code="404">If no movies are found from the API.</response>
+    /// <response code="500">If an internal server error occurs.</response>
     [HttpGet("fetch-and-save-popular-movies")]
     public async Task<IActionResult> FetchAndSavePopularMovies()
     {
