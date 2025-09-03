@@ -46,9 +46,9 @@
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MovieApi\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs*",
-              "RelativeToolTip": "MovieApi\\Models\\Movie.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T13:28:57.809Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "MovieApi\\Controllers\\MovieController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAUwCUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T18:26:59.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T18:26:59.219Z"
             },
             {
               "$type": "Document",
