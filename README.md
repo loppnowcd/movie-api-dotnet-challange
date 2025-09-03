@@ -27,7 +27,7 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the repository:**
     Start by opening your terminal or Git Bash.
     ```bash
-    git clone https://github.com/loppnowcd/movie-api-dotnet-challange.git
+    git clone https://github.com/loppnowcd/movie-api-dotnet-challenge.git
     cd movie-api-dotnet-challange
     ```
 2.  **Restore dependencies:**
@@ -108,7 +108,7 @@ Siga estas instruções para colocar o projeto em funcionamento na sua máquina 
 1.  **Clone o repositório:**
     Comece abrindo o seu terminal ou Git Bash.
     ```bash
-    git clone https://github.com/loppnowcd/movie-api-dotnet-challange.git
+    git clone https://github.com/loppnowcd/movie-api-dotnet-challenge.git
     cd movie-api-dotnet-challange
     ```
 2.  **Restaure as dependências:**
